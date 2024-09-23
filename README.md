@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**IamB3ST/IamB3ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rui Wu, a sophomore student of Computer Science Department at Rutgers University.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning LLM/AI4Sci/GraphLearning.
+- 👯 I’m looking to collaborate on research about AI4Sci.
+- 📫 My personal website: [here](https://iamb3st.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Here are some useful guidance for exploring my repo:
+
+- 🥰 I keep a [repo](https://github.com/IamB3ST/MyCourses) to record the courses I have had each semester at Rutgers.
+- 😍 I always update some useful papers I have readed [here](https://github.com/IamB3ST/PaperReading).
+- 😘 Follow my [way](https://github.com/IamB3ST/LearningDL) to study deep learning and LLM if you want!
