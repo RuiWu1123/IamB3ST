@@ -2,8 +2,8 @@
 
 I'm Rui Wu, a sophomore student of Computer Science Department at Rutgers University.
 
-- 🌱 I’m currently learning LLM/AI4Sci/GraphLearning.
-- 👯 I’m looking to collaborate on research about AI4Sci.
+- 🌱 I’m currently learning LLM/Prompting/GraphLearning.
+- 👯 I’m looking to collaborate on research about LLM and its applications.
 - 📫 My personal website: [here](https://iamb3st.github.io/).
 
 
