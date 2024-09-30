@@ -3,7 +3,7 @@
 I'm Rui Wu, a sophomore student of Computer Science Department at Rutgers University.
 
 - 🌱 I’m currently learning LLM/Prompting/GraphLearning.
-- 👯 I’m looking to collaborate on research about LLM in Recoomender System.
+- 👯 I’m looking to collaborate on research about LLM privacy/security.
 - 📫 My personal [website](https://iamb3st.github.io/) and my [zhihu](https://www.zhihu.com/people/wrizzy).
 
 
