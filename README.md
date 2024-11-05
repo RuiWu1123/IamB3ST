@@ -2,9 +2,9 @@
 
 I'm Rui Wu, a sophomore student of Computer Science Department at Rutgers University.
 
-- 🌱 I’m currently learning LLM/Prompting/GraphLearning.
-- 👯 I’m looking to collaborate on research about LLM privacy/safety.
-- 📫 My personal [website](https://iamb3st.github.io/) and my [zhihu](https://www.zhihu.com/people/wrizzy).
+- 🌱 I’m currently learning LLMs/MLLMs/Trustworthy.
+- 👯 I’m looking to collaborate on research about Trustworthy MLLM in healthcare.
+- 📫 My personal [website](https://iamb3st.github.io/).
 
 
 
