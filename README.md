@@ -2,8 +2,8 @@
 
 I'm Rui Wu, a sophomore student of Computer Science Department at Rutgers University.
 
-- 🌱 I’m currently learning LLMs/MLLMs/Trustworthy.
-- 👯 I’m looking to collaborate on research about MLLM.
+- 🌱 I’m currently learning LLMs/MLLMs.
+- 👯 I’m looking to collaborate on research about Deep Learning.
 - 📫 My personal [website](https://iamb3st.github.io/).
 
 
